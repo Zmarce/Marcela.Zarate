@@ -1,5 +1,5 @@
 nucleotide = raw_input("Input nucleotide A, C, T, G :")
-print nucleotide
+#print nucleotide
 
 if (nucleotide == "A"):
 	print ("ADENINA")
